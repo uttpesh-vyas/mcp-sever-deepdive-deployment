@@ -1,4 +1,4 @@
-# MCP Server Deepdive Deployment
+# MCP Server Deployment
 
 ## MCP Installation
 
